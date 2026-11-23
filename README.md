@@ -139,7 +139,7 @@ Pull requests are welcome. Please open an issue first so we can argue about it c
 | Role | Person |
 |------|--------|
 | Organization | [@Glitched-Developers](https://github.com/Glitched-Developers) |
-| Core team | [Shizamuru](https://github.com/shizamuru-dev) · [VladN13](https://github.com/VladN13) · [vovakovtyn2008-oss](https://github.com/vovakovtyn2008-oss) |
+| Core team |  [VladN13](https://github.com/VladN13) · [vovakovtyn2008-oss](https://github.com/vovakovtyn2008-oss) · ~~[Shizamuru](https://github.com/shizamuru-dev)~~|
 
 ---
 
